@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Desktop\Group work Unity project\scripts\aarowaxe.cs">
+    <Files>
+      <File FileName="Assets\working scripts\archer.cs" Line="21" Column="28" />
+      <File FileName="Assets\working scripts\raytest2.cs" Line="21" Column="16" />
+      <File FileName="Assets\working scripts\MeleeEnemy.cs" Line="27" Column="27" />
+      <File FileName="Assets\working scripts\enemymovementspearman.js" Line="1" Column="1" />
+      <File FileName="Assets\working scripts\raytest.cs" Line="17" Column="2" />
+      <File FileName="..\..\..\..\Desktop\Group work Unity project\scripts\aarowaxe.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\Desktop\Group work Unity project\scripts\projectile.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
